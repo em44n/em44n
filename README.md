@@ -1,6 +1,6 @@
 Hello, world! 👋🏽
 
-• 👩🏽‍🎓 Currently a second year computer science major as Northeastern University
+• 👩🏽‍🎓 Currently a third year computer science major as Northeastern University
 
 • 👩🏽‍💻 Searching for an Summer/Fall 2024 internship
 
